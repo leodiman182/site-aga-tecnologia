@@ -1,0 +1,5 @@
+hr {
+  background: rgb(72,5,123);
+  background: linear-gradient(90deg, rgba(72,5,123,1) 0%, rgba(128,15,205,1) 20%, rgba(232,147,250,1) 40%, rgba(253,208,108,1) 60%, rgba(255,109,59,1) 80%, rgba(240,65,87,1) 100%);
+  height: 2px;
+}
